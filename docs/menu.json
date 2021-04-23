@@ -9,6 +9,6 @@
         "id": "github",
         "label": "GitHub",
         "href": "https://github.com/kata-ai/grundgesetz-skeleton",
-        "external": false
+        "external": true
     }
 ]
